@@ -1,6 +1,6 @@
 ## Portafolio de Proyectos
 
-Hola soy **Luz Cristina**, estudiante de **Ing. Mecánica**, me apasiona aprender nuevas cosas sobre la tecnología, aquí encontrarás información sobre mí.
+Hola soy **Luz Cristina**, pasante de **Ing. Mecánica**, me apasiona aprender nuevas cosas sobre la tecnología, aquí encontrarás información sobre mí.
 
 ____________________
 ### El proyecto cuenta con las secciones de:
@@ -28,4 +28,5 @@ ____________________
  
  #### Creado en el bootcamp de TecnolochicasPro💜
  [Tecnolochicas](https://tecnolochicas.mx/)
+
 
