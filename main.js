@@ -4,7 +4,7 @@ var typewriter = new Typewriter(app, {
     loop: true
 });
 //Comentario
-typewriter.typeString('Pasante de Ingeniería Mecánica')
+typewriter.typeString('Ingeniera Mecánica')
     .pauseFor(2500)
     .deleteAll()
     .typeString('¡De la imaginación nace la creación!')
